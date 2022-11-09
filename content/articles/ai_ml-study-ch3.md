@@ -1,6 +1,6 @@
 ---
 title: AI스터디 - 챕터 3
-description: CH3) Classification
+description: CH3)Classification
 slug: ai_ml-study-ch3
 category: Data-Science
 author: YuJin Son
